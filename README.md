@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://github.com/user-attachments/assets/2fbd30d2-a392-48d0-83f0-a56155766c44)]
+![MasterHead](![image](![image](https://github.com/user-attachments/assets/b67dc47c-9a53-4765-94c5-759696fb2053)
 
 
 # 🤖 About Me:
