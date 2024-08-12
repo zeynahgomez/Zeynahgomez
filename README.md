@@ -4,7 +4,8 @@
  My name is Zeynah, and I'm a dedicated student in software engineering with a strong interest in cloud computing; I am committed to advancing my knowledge through AWS courses aimed at certification while actively participating in the AWS Institute. This journey prepares me for a successful career and positions me at the forefront of technological advancements that define the future of software development.
 
 
-(img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dg8b54p-18e32f29-9558-4fb9-83af-de94e437053a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGc4YjU0cC0xOGUzMmYyOS05NTU4LTRmYjktODNhZi1kZTk0ZTQzNzA1M2EuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HXuzj0iAZKGgmBkfx_dU5uMbiia8p5hubL59hh7WhOc")
+(img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/9da4d662-e0b2-4210-a67e-d96bfad622d9)
+")
 
 
 ## 🌐 Socials:
