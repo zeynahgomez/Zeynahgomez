@@ -11,6 +11,7 @@
 How I'm commited to growing in tech➡️
 
 👩‍💻Embracing Lifelong Learning
+
 🖥️A fundamental aspect of a strong commitment to learning is the mindset of lifelong learning. Recognizing that technology is constantly changing and that staying relevant requires ongoing education. I am seeking out opportunities for growth through:
 
 ✨Online Courses: Platforms like Coursera, Udacity, AWS Skill Builder, Coding Bootcamps, or Udemy offer courses on emerging technologies such as artificial intelligence, machine learning, and cloud computing. These help evolve my learning in regards to the tech space. 
