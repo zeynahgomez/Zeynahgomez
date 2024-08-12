@@ -4,12 +4,6 @@
  My name is Zeynah, and I'm a dedicated student in software engineering with a strong interest in cloud computing; I am committed to advancing my knowledge through AWS courses aimed at certification while actively participating in the AWS Institute. This journey prepares me for a successful career and positions me at the forefront of technological advancements that define the future of software development.
 
 
-
-
-src="![image](https://github.com/user-attachments/assets/c822d309-06e1-42eb-998b-b4d0f92795db)
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeynahgomez) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zeynahgomez) 
 
@@ -24,3 +18,4 @@ src="![image](https://github.com/user-attachments/assets/c822d309-06e1-42eb-998b
 [![](https://visitcount.itsvg.in/api?id=zeynahgomez&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![image](https://github.com/user-attachments/assets/c822d309-06e1-42eb-998b-b4d0f92795db)
