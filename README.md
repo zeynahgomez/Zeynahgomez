@@ -11,7 +11,7 @@
 How I'm commited to growing in tech➡️
 👩‍💻Embracing Lifelong Learning
 
-⭐A fundamental aspect of a strong commitment to learning is the mindset of lifelong learning. Recognizing that technology is constantly changing and that staying relevant requires ongoing education. I am seeking out opportunities for growth through:
+🖥️A fundamental aspect of a strong commitment to learning is the mindset of lifelong learning. Recognizing that technology is constantly changing and that staying relevant requires ongoing education. I am seeking out opportunities for growth through:
 
 ✨Online Courses: Platforms like Coursera, Udacity, AWS Skill Builder, Coding Bootcamps, or Udemy offer courses on emerging technologies such as artificial intelligence, machine learning, and cloud computing. These help evolve my learning in regards to the tech space. 
 
@@ -22,7 +22,7 @@ How I'm commited to growing in tech➡️
 
 👩‍💻Demonstrating Adaptability
 
-⭐Adaptability is crucial in the tech industry where new tools and methodologies frequently emerge. A strong commitment to learning means being open to change and willing to step outside one’s comfort zone. This is shown by:
+🖥️Adaptability is crucial in the tech industry where new tools and methodologies frequently emerge. A strong commitment to learning means being open to change and willing to step outside one’s comfort zone. This is shown by:
 
 ✨Learning New Technologies: Actively pursuing knowledge about new programming languages or software frameworks that are relevant to one’s job role.
 
@@ -30,7 +30,7 @@ How I'm commited to growing in tech➡️
 
 👩‍💻Setting Goals for Skill Development
 
-⭐Having clear goals helps maintain focus on personal development in technology. Setting specific, measurable objectives related to their learning journey:
+🖥️Having clear goals helps maintain focus on personal development in technology. Setting specific, measurable objectives related to their learning journey:
 
 ✨Short-Term Goals: These might include completing a specific course or mastering a particular tool within a set timeframe.
 
@@ -38,14 +38,14 @@ How I'm commited to growing in tech➡️
 
 👩‍💻Seeking Feedback and Mentorship
 
-⭐Engaging with mentors or seeking feedback from peers can significantly enhance my ability to learn effectively. This includes:
+🖥️Engaging with mentors or seeking feedback from peers can significantly enhance my ability to learn effectively. This includes:
 
 Mentorship Programs: Listening and following mentor's advice due to them having expertise in desired areas which can provide guidance and accelerate the learning process.
 Peer Reviews: Collaborating with colleagues on projects allows for constructive feedback that fosters improvement.
 
 👩‍💻Cultivating Passion for Technology
 
-⭐A genuine passion for technology drives me to explore beyond their immediate responsibilities. This enthusiasm often leads to deeper engagement within my work:
+🖥️A genuine passion for technology drives me to explore beyond their immediate responsibilities. This enthusiasm often leads to deeper engagement within my work:
 
 ✨Personal Projects: Working on side projects and actively pursuing Hackathons. Initiatives allowing me to apply it to real-world scenarios.
 
