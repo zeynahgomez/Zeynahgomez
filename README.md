@@ -4,8 +4,10 @@
  My name is Zeynah, and I'm a dedicated student in software engineering with a strong interest in cloud computing; I am committed to advancing my knowledge through AWS courses aimed at certification while actively participating in the AWS Institute. This journey prepares me for a successful career and positions me at the forefront of technological advancements that define the future of software development.
 
 
-(img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/c822d309-06e1-42eb-998b-b4d0f92795db)
-")
+
+
+src="![image](https://github.com/user-attachments/assets/c822d309-06e1-42eb-998b-b4d0f92795db)
+
 
 
 ## 🌐 Socials:
