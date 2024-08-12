@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 # 🤖 About Me:
- My name is Zeynah, and I'm a dedicated student in software engineering with a strong interest in cloud computing; I am committed to advancing my knowledge through AWS courses aimed at certification while actively participating in the AWS Institute. This journey prepares me for a successful career and positions me at the forefront of technological advancements that define the future of software development.
+ My name is Zeynah, and I'm a dedicated student in software engineering with a strong interest in cloud computing; I am committed to advancing my knowledge through AWS courses aimed at certification while actively participating in the AWS Institute. Currently a Software Developer intern specializing in AI and Robotics. This journey prepares me for a successful career and positions me at the forefront of technological advancements that define the future of software development.
 
 
 # 🫧 Socials:
