@@ -5,7 +5,7 @@
 
 
 
-# 🤖 About Me:
+# 😊 About Me:
  My name is Zeynah, and I'm a dedicated student in software engineering with a strong interest in cloud computing; I am committed to advancing my knowledge through AWS courses aimed at certification while actively participating in the AWS Institute. Currently a Software Developer intern specializing in AI and Robotics. This journey prepares me for a successful career and positions me at the forefront of technological advancements that define the future of software development.
 
 How I'm commited to growing in tech➡️
