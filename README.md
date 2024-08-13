@@ -10,7 +10,7 @@ I'm a dedicated student in software engineering with a strong interest in cloud 
 
 How I'm commited to growing in tech➡️
 
-⇨Embracing Lifelong Learning
+⫸Embracing Lifelong Learning
 
 🖥️A fundamental aspect of a strong commitment to learning is the mindset of lifelong learning. Recognizing that technology is constantly changing and that staying relevant requires ongoing education. I am seeking out opportunities for growth through:
 
@@ -21,7 +21,7 @@ How I'm commited to growing in tech➡️
 ✨Self-Directed Learning: Reading books, following tech blogs, Podcasts, AWS episodes on Twitch or engaging with online communities can help stay informed about the latest trends.
 
 
-👩‍💻Demonstrating Adaptability
+⫸Demonstrating Adaptability
 
 🖥️Adaptability is crucial in the tech industry where new tools and methodologies frequently emerge. A strong commitment to learning means being open to change and willing to step outside one’s comfort zone. This is shown by:
 
@@ -29,7 +29,7 @@ How I'm commited to growing in tech➡️
 
 ✨Cross-Training: Gaining skills in different areas (e.g., AWS Cloud practices/courses, certiifcation study guides, different coding languages courses) enhances versatility and prepares individuals for diverse roles within their organizations.
 
-👩‍💻Setting Goals for Skill Development
+⫸Setting Goals for Skill Development
 
 🖥️Having clear goals helps maintain focus on personal development in technology. Setting specific, measurable objectives related to their learning journey:
 
@@ -37,14 +37,14 @@ How I'm commited to growing in tech➡️
 
 ✨Long-Term Goals: These could involve obtaining certifications or transitioning into more advanced roles within the tech field.
 
-👩‍💻Seeking Feedback and Mentorship
+⫸Seeking Feedback and Mentorship
 
 🖥️Engaging with mentors or seeking feedback from peers can significantly enhance my ability to learn effectively. This includes:
 
 Mentorship Programs: Listening and following mentor's advice due to them having expertise in desired areas which can provide guidance and accelerate the learning process.
 Peer Reviews: Collaborating with colleagues on projects allows for constructive feedback that fosters improvement.
 
-👩‍💻Cultivating Passion for Technology
+⫸Cultivating Passion for Technology
 
 🖥️A genuine passion for technology drives me to explore beyond their immediate responsibilities. This enthusiasm often leads to deeper engagement within my work:
 
