@@ -5,12 +5,12 @@
 
 # Zeynah👩‍💻
 
-# 🤖About Me:
+## 🤖About Me:
 I'm a dedicated student in software engineering with a strong interest in cloud computing; I am committed to advancing my knowledge through AWS courses aimed at certification while actively participating in the AWS Institute. Currently a Software Developer intern specializing in AI and Robotics. This journey prepares me for a successful career and positions me at the forefront of technological advancements that define the future of software development.
 
 How I'm commited to growing in tech➡️
 
-👩‍💻Embracing Lifelong Learning
+⇨Embracing Lifelong Learning
 
 🖥️A fundamental aspect of a strong commitment to learning is the mindset of lifelong learning. Recognizing that technology is constantly changing and that staying relevant requires ongoing education. I am seeking out opportunities for growth through:
 
